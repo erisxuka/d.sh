@@ -1,0 +1,39 @@
+#norrisi {
+    border: 2px solid grey;
+    width: 500px;
+    height: 150px;
+    display: flex;
+    border-radius: 8px;
+    background-color: #fff6eb;
+}
+body {
+    font-family: "Poppins", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    background-color: bisque;
+    display: flex;
+}
+#imgn {
+    border-radius: 100%;
+    width: 90px;
+    height: 90px;
+}
+p {
+    color: #460742;
+}
+#budallaki {
+    width: 300px;
+  
+}
+#anamajtnoris {
+    margin-left: 10px;
+}
+#norrisi-tjeter {
+    border: 2px solid grey;
+    width: 380px;
+    height: 300px;
+    display: flex;
+    border-radius: 8px;
+    background-color: #fff6eb;
+    margin-left: 10px;
+}
